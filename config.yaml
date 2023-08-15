@@ -1,0 +1,4 @@
+path_to_training_model_data: ..//18.05.2023-AW-1
+path_to_save_trained_model: ..//modele
+name_of_saved_model: //model_dane_18_05.keras
+path_to_read_trained_model: ..//modele//model_dane_18_05.keras
